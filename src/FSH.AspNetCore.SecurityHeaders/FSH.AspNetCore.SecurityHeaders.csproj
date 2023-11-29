@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+	</ItemGroup>
+
+	<PropertyGroup>
+		<RootNamespace>FSH.AspNetCore.SecurityHeaders</RootNamespace>
+		<AssemblyName>FSH.AspNetCore.SecurityHeaders</AssemblyName>
+		<PackageId>FSH.AspNetCore.SecurityHeaders</PackageId>
+		<PackageTags>aspnetcore;headers;ASP.NET Core;middleware</PackageTags>
+		<PublishRepositoryUrl>true</PublishRepositoryUrl>
+	</PropertyGroup>
+
+</Project>

@@ -1,0 +1,20 @@
+<Project>
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
+		<Authors>Ngô Quốc Toản</Authors>
+		<Product>FSH.AspNetCore.SecurityHeaders</Product>
+		<Copyright>Copyright © Ngô Quốc Toản</Copyright>
+		<Description>Middleware for ASP.NET Core to automatically add security headers to requests.</Description>
+		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageProjectUrl>https://github.com/ngoquoctoandev/FSH.AspNetCore.SecurityHeaders</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/ngoquoctoandev/FSH.AspNetCore.SecurityHeaders</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<DebugType>embedded</DebugType>
+		<IsPackable>false</IsPackable>
+		<NoPackageAnalysis>true</NoPackageAnalysis>
+	</PropertyGroup>
+</Project>
