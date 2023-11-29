@@ -1,6 +1,6 @@
 # FSH.AspNetCore.SecurityHeaders
 
-[![Build status](https://ci.appveyor.com/api/projects/status/q261l3sbokafmx1o/branch/develop?svg=true)](https://ci.appveyor.com/project/ngoquoctoandev/fsh-aspnetcore-securityheaders/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/q261l3sbokafmx1o/branch/develop?svg=true)](https://ci.appveyor.com/project/ngoquoctoandev/fsh-aspnetcore-securityheaders/branch/main)
 [![NuGet](https://img.shields.io/nuget/v/FSH.AspNetCore.SecurityHeaders.svg)](https://www.nuget.org/packages/FSH.AspNetCore.SecurityHeaders/)
 
 A small package to allow adding security headers to ASP.NET Core websites
